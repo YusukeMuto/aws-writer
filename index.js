@@ -1,3 +1,3 @@
 module.exports = {
-  ReadOperation  : require('./ReadOperation')
+  WriterOperation  : require('./WriteOperation')
 };
